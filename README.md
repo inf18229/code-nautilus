@@ -1,6 +1,6 @@
-# code-nautilus
+# code-nautilus (flatpak support)
 
-This repo provides a visual studio code extension for Nautilus.
+This repo provides a visual studio code (flatpak support) extension for Nautilus.
 
 ## Install Extension
 
